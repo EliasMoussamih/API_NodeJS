@@ -1,4 +1,6 @@
 
 node_modules
+backend/node_modules
+frontend_react/node_modules
 *.pub
 .env
